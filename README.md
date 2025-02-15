@@ -14,12 +14,14 @@ I'm a Brazillian Web Developer... that's it actually, what should I say more?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :keyboard: Languages
+<p>
 <img src="https://raw.githubusercontent.com/spectronp/spectronp/main/images/php.svg" width="40" />
 <img src="https://raw.githubusercontent.com/spectronp/spectronp/main/images/javascript.svg" width="40" />
 <img src="https://raw.githubusercontent.com/spectronp/spectronp/main/images/typescript.svg" width="40" />
 <img src="https://raw.githubusercontent.com/spectronp/spectronp/main/images/go.svg" width="40" />
 <img src="https://raw.githubusercontent.com/spectronp/spectronp/main/images/gnubash.svg" width="40" />
 <img src="https://raw.githubusercontent.com/spectronp/spectronp/main/images/python.svg" width="40" />
+</p>
 <!--
 TODO
 
