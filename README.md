@@ -7,7 +7,7 @@ I'm a Brazillian Web Developer... that's it actually, what should I say more?
 
 #### About me
 - Linux user ( Arch <sub>btw</sub> )
-- DevOps and Cyber Securiy enthusiast
+- DevOps and Cyber Security enthusiast
 - Terminal lover
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=spectronp&theme=github_dark&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
