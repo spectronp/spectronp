@@ -10,8 +10,8 @@ I'm a Brazillian Web Developer... that's it actually, what should I say more?
 - DevOps and Cyber Security enthusiast
 - Terminal lover
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=spectronp&theme=github_dark&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://stats-api-production-ce46.up.railway.app/api?username=spectronp&theme=github_dark&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://stats-api-production-ce46.up.railway.app/api/top-langs/?username=spectronp&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :keyboard: Languages
 <p>
